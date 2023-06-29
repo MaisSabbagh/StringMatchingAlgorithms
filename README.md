@@ -1,1 +1,1 @@
-# StringMatchingAlgorithms
+The objective of this project is to compare the performance of three string matching algorithms when applied to HTML files. The analysis focuses on evaluating the efficiency and the effectiveness of these algorithms in matching patterns within HTML text documents
